@@ -1,11 +1,3 @@
-import React from 'react';
-
-function App() {
-  return (
-    <div>
-        teste
-    </div>
-  );
+export default function Square() {
+  return <button className="square">X</button>;
 }
-
-export default App;
