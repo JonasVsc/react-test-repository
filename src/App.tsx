@@ -1,9 +1,10 @@
 import React from 'react';
+import UseReducer from './components/UseReducer';
 
 function App() {
   return (
     <div>
-        teste
+        <UseReducer/>
     </div>
   );
 }
